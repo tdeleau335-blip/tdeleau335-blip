@@ -4,8 +4,8 @@
 
 [![BUT Info](https://img.shields.io/badge/BUT%20Info-2ème%20année-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Stage-Dès%20le%2012%2F04%2F2027-brightgreen.svg)]()
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/tom-deleau-lens)
-[![GitHub](https://img.shields.io/badge/GitHub-TomDel18-181717.svg?logo=github&logoColor=white)](https://github.com/tdeleau335-blip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Deleau-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-deleau-lens)
+[![GitHub](https://img.shields.io/badge/GitHub-tdeleau335-blip-181717.svg?logo=github&logoColor=white)](https://github.com/tdeleau335-blip)
 [![Email](https://img.shields.io/badge/Email-tdeleau335%40gmail.com-EA4335.svg?logo=gmail&logoColor=white)](mailto:tdeleau335@gmail.com)
 
 **Étudiant en BUT Informatique à l'IUT de Lens · Recherche d'un stage à partir du 12 avril 2027**
